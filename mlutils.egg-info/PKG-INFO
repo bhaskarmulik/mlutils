@@ -1,4 +1,0 @@
-Metadata-Version: 2.4
-Name: mlutils
-Version: 0.1.0
-Requires-Dist: pytest>=9.0.2
